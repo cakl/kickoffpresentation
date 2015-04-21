@@ -18,6 +18,8 @@ slidenumbers: true
 
 - funktionsfähige Platform für Mini-Games
 
+- 100% Remote Data 
+
 - nur 1 vs. 1 Games 
 
 - Ein Minigame
